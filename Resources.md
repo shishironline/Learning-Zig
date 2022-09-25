@@ -2,7 +2,7 @@
 id: z9jx8u95cwk1f9zqgtbgvih
 title: Resources
 desc: ''
-updated: 1664032545505
+updated: 1664032709905
 created: 1664032229253
 ---
 
@@ -48,3 +48,6 @@ https://github.com/vrischmann/envconfig
 https://sqlite.org/loadext.html
 
 https://rischmann.fr/blog/virtual-tables-with-zig-sqlite
+
+https://github.com/shishironline/Learning-Zig
+
